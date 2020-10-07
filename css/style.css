@@ -31,6 +31,9 @@ header {
 #row_white{
   background-color: white;
 }
+#testo_della_mail {
+  color: grey;
+}
 .row{
   background-color: lightgrey;
   border: 1px solid black;
