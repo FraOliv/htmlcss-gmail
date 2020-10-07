@@ -1,0 +1,45 @@
+body {
+  background-image: url(../img/legno.jpg);
+  padding: 70px;
+}
+header {
+  margin: auto;
+  color: white;
+  position: relative;
+}
+#logo_text{
+  display: inline-block;
+  font-size: 25px;
+  border-bottom: 15px;
+  position: absolute;
+
+}
+
+.button{
+  width:8%;
+  text-align: center;
+}
+.unread_messages{
+  color: white;
+}
+
+.number {
+  background-color: orange;
+  padding: 5px;
+  border-radius: 20px;
+}
+#row_white{
+  background-color: white;
+}
+.row{
+  background-color: lightgrey;
+  border: 1px solid black;
+}
+.footer {
+  text-align: center;
+  color: white
+
+}
+#gmail {
+  font-family: 'Archivo Black', sans-serif;
+}
